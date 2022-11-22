@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 numpy = "==1.19.5"
-Pillow = "==9.0.0"
+Pillow = "==9.3.0"
 
 [dev-packages]
 pylint = "*"
